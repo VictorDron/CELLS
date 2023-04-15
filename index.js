@@ -1,6 +1,6 @@
 // Tamanho da grade de células
-const width = 50;
-const height = 30;
+const width =100;
+const height = 60;
 
 // Cria uma matriz bidimensional para representar a grade de células
 let cells = new Array(height);
